@@ -124,7 +124,6 @@ body {
 .marketing .col-lg-4 {
   margin-bottom: 20px;
   text-align: center;
-  margin-left: 130px;
 }
 .marketing h2 {
   font-weight: normal;
@@ -147,4 +146,34 @@ body {
   font-weight: 300;
   line-height: 1;
   letter-spacing: -1px;
+}
+
+.mouth {
+  background: #eee;
+}
+
+.carousel {
+  max-width:815px;
+  margin:0 auto;
+  height:auto;
+}
+#face {
+  border: 1px dashed #ccc;
+  background: #FFFACD;
+}
+
+/*table*/
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    
+}
+
+.up {
+  max-width:315px;
+  background:#808080;
+  height:5px;
 }
